@@ -1,11 +1,12 @@
 import React from 'react'
-import GenericNavbar from './components/navbars/GenericNavbar';
+// import GenericNavbar from './components/navbars/GenericNavbar';
 
-function App() {
+function LandingPage() {
   return (
-    <GenericNavbar />
+    // <GenericNavbar />
+    <div>LandingPage</div>
     
   );
 }
 
-export default App;
+export default LandingPage;
