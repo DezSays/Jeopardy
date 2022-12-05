@@ -1,5 +1,5 @@
 import React from 'react'
-import UserNavbar from '../navbars/UserNavbar'
+import UserNavbar from '../navbars/UserNavbar.js'
 
 const UserLayout = ({children}) => {
   return (

@@ -11,12 +11,13 @@ const GenericNavbar = () => {
     return (
       <Navbar collapseOnSelect expand="lg" bg="warning" variant="light">
       <Container>
+        <Navbar.Brand href="/">Generic Navbar</Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="ml-auto">
-              <div>Hey</div>
-              {/* <Link to="/" className='path'>Home</Link> */}
-              {/* <Link to="/Recipes" className='path'>Search Recipes</Link> */}
+              <Link to="/" className='path'>Landing Page</Link>
+              <Link to="/Login" className='path'>Login</Link>
+              <Link to="/Registration" className='path'>Registration</Link>
             </Nav>
           </Navbar.Collapse>
       </Container>

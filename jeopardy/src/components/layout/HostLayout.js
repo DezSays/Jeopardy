@@ -1,5 +1,5 @@
 import React from 'react'
-import HostNavbar from '../navbars/HostNavbar'
+import HostNavbar from '../navbars/HostNavbar.js'
 
 const HostLayout = ({children}) => {
   return (

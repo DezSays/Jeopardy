@@ -1,5 +1,5 @@
 import React from 'react'
-import GenericNavbar from '../navbars/GenericNavbar'
+import GenericNavbar from '../navbars/GenericNavbar.js'
 
 const GenericLayout = ({children}) => {
   return (
