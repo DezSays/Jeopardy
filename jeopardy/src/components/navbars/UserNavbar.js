@@ -11,7 +11,7 @@ const UserNavbar = () => {
   return (
     <Navbar collapseOnSelect expand="lg" bg="warning" variant="light">
     <Container>
-      <Navbar.Brand href="/">User Navbar</Navbar.Brand>
+      <Navbar.Brand href="/UserDashboard">User Navbar</Navbar.Brand>
       <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="ml-auto">
