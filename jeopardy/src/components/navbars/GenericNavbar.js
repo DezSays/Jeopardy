@@ -6,7 +6,6 @@ import Navbar from 'react-bootstrap/Navbar';
 import { Link } from 'react-router-dom'
 
 
-
 const GenericNavbar = () => {
     return (
       <Navbar collapseOnSelect expand="lg" bg="warning" variant="light">
