@@ -1,10 +1,12 @@
 import React from "react";
 
-const Logout = () => {
+const Logout = ({setNavbarState}) => {
 
   return (
   <div>
-    <button>Log Out</button>
+    <button onClick={() => setNavbarState(0)}>
+      logout
+    </button>
   </div>
   )
 };

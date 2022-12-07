@@ -1,8 +1,21 @@
 import React from 'react'
 
-const Login = () => {
+const Login = ({setNavbarState}) => {
+ 
+
   return (
-    <div>Login</div>
+    <>
+    <div>
+      Login
+    {/* <p>You clicked {navbarState} times</p> */}
+    <button onClick={() => setNavbarState(1)}>
+      login as user
+    </button>
+    <button onClick={() => setNavbarState(2)}>
+      login as host
+    </button>
+  </div>
+  </>
   )
 }
 
