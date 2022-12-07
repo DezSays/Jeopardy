@@ -18,18 +18,24 @@ import Registration from './components/auth/Registration.js'
 
 function App() {
     const [navbarState, setNavbarState] = useState(0);
+  
 
     useEffect(() => {
-      setNavbarState(JSON.parse(window.localStorage.getItem('navbarState')));
+      const data = localStorage.getItem('my-navbar-state');
+      if (data){
+        setNavbarState(JSON.parse(data));
+      }
+      else{
+        setNavbarState(0)
+      }
     }, []);
-
-    
+  
     useEffect(() => {
-      window.localStorage.setItem('navbarState', navbarState);
-    }, [navbarState]);
+      localStorage.setItem("my-navbar-state", JSON.stringify(navbarState));
+    });
 
     if(navbarState === 0){
-        console.log("this is navbarstate"+navbarState)
+        console.log("this is navbarstate "+navbarState)
         return (
         <Router>
             <GenericLayout>
@@ -40,8 +46,9 @@ function App() {
             </Routes>
           </GenericLayout>
         </Router>
-        );
+      );
     }
+
     if(navbarState === 1){
         return(
             <Router>
@@ -68,5 +75,6 @@ function App() {
            </Router>
         );
     }
+
 }
 export default App;
