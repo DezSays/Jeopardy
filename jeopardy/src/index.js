@@ -20,34 +20,6 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
 
     <App />
-  // <React.StrictMode>
-  //   <LandingPage />
-  //   <Router>
-  //       <UserLayout>
-  //         <Routes>
-  //           <Route path='/UserDashboard' element={<UserDashboard />} />
-  //           <Route path='/Logout' element={<Logout />} />
-  //         </Routes>
-  //       </UserLayout>
-
-  //       <HostLayout>
-  //         <Routes>
-  //           <Route path='/HostDashboard' element={<HostDashboard />} />
-  //           <Route path='/CreateGame' element={<CreateGame />} />
-  //           <Route path='/PlayGame' element={<PlayGame />} />
-  //           <Route path='/Logout' element={<Logout />} />
-  //         </Routes>
-  //       </HostLayout>
-
-  //       <GenericLayout>
-  //         <Routes>
-  //           <Route path='/' element={<LandingPage />} />
-  //           <Route path='/Login' element={<Login />} />
-  //           <Route path='/Registration' element={<Registration />} />
-  //         </Routes>
-  //       </GenericLayout>
-  //   </Router>
-  // </React.StrictMode>
 );
 
 
