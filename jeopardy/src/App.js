@@ -1,4 +1,4 @@
-import React from "react";
+import React,{ useState, useEffect }  from "react";
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import LandingPage from './LandingPage.js';
@@ -15,10 +15,18 @@ import PlayGame from './components/PlayGame.js'
 import Login from './components/auth/Login.js'
 import Registration from './components/auth/Registration.js'
 
-import { useState } from "react";
 
 function App() {
     const [navbarState, setNavbarState] = useState(0);
+
+    useEffect(() => {
+      setNavbarState(JSON.parse(window.localStorage.getItem('navbarState')));
+    }, []);
+
+    
+    useEffect(() => {
+      window.localStorage.setItem('navbarState', navbarState);
+    }, [navbarState]);
 
     if(navbarState === 0){
         console.log("this is navbarstate"+navbarState)
