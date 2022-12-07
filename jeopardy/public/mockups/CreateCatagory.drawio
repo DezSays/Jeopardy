@@ -1,1 +1,110 @@
-<mxfile host="Electron" modified="2022-12-07T21:08:17.571Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/20.3.0 Chrome/104.0.5112.114 Electron/20.1.3 Safari/537.36" etag="ROwIIXytNhAl3mTZUzZY" version="20.3.0" type="device"><diagram id="LeW0GwIIXmkcreWbN-zC" name="Page-1">7Vtdk5owFP01PrYDhC8fla1tZ7cdt7azfc1CgLRInBBX7a9vggHFZLetVdAdfFC44SPcc8+995BxAIL5+j2Fi/QTiVA2sIxoPQA3A8vyXYt/C8Nma3BsZ2tIKI62JnNnmOFfSBoNaV3iCBWNAxkhGcOLpjEkeY5C1rBBSsmqeVhMsuZdFzBBimEWwky1PuCIpfKxHGNn/4BwklZ3Ng05MofVwdJQpDAiqz0TeDcAASWEbbfm6wBlwneVX7bnTZ4ZrSdGUc7+5oTxhx8f40l+602Lu9F08+V+anx/I6/yBLOlfGA5WbapPEDJMo+QuIgxAONVihmaLWAoRlcccm5L2TzjeybfjHGWBSQjtDwXRBD5ccjtBaPkJ9obcUMfPcZ8RE4AUYbWzz6ZWfuLxxkic8Tohh+y0iCS7qHhSRuUQZDUp+78xDekq/7BbZbithtYpI8E0kjxH38u1nRS0xk5ydGB56QJZjjJ+W7I/YC4fSy8hHlsjuTAHEeRuI0WlSZu/+NmecJQelMyuYrrPRBcDQbgXBgABYM7kpAle70AuBeGgH3VyWNTFRqgurHdbOKofgyswWjIbQFZbGg5hVcb1X4zqE3D0eDRZli7ChxTip9gKOY8JRkON68XDOBdGhqegsbosczyxrfi9eLgXhwrfAWHADKYkHLWXzHjvjlEQ+NmLRyV7zMUC/RikjMpBEz7dB2itjba0kZRBhl+ajb9Oh/KW0wJztkOLvMQrQMUSBwXiCkY1BM9HpahCstspiCxT4hKhohIjXjXWoctH1mI4+frREi5t49cmnC84OItpaW0GlMJi6PnkFKnh+VHRbjg7MF5ImbkaAAX+/vVPvBc7+aEUsF4gTcnDgS7tUAwdVLOLiPRGOXFiie1np8VLH57sKhScXw3+nxbIgHzqChfSlDR6sEihJGghWXMSpD4b4oQU8tcT+du6FwrrhbiRhVXoygqw6Squu0GBUfOMHxnEvwpS9Qd1B/iYFJ+ThcHpnm+/HHYjg3d9gJBow6rvH6/RAXDJL/EzP4Mg1y1jX0x8Z+8jzVVefeQQoE1FrlYdE9g0mfcv8QTGDpZ0qYuqVJykx/Whfc9z3hT8yqqXXZYahfZtytnI4/XOXnU7rQmz/UVF9vsnD7qokRfXI7HU/vOq1V+6JY4bHCVxcX2O2eH2sr2xeVc5HE0q4Mtk0fttGvyXF9xcTpXLpa6FNIXl6PxdLtXLuqSCueHfZXFxe1euagrIX1xORt5Olcu1YV15Lm+4uJ1rlyAKvz74nI8np0rF6BV9s5VFhevc+UCVF3fF5dzkcfvXLkArex3rrS4+J0rF6AK/764HI3n8IzKhe/u/pGwXcLc/a0DvPsN</diagram></mxfile>
+<mxfile host="65bd71144e">
+    <diagram id="LeW0GwIIXmkcreWbN-zC" name="Page-1">
+        <mxGraphModel dx="590" dy="277" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="BHjIfFnK7PsLAPyRQP0X-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#115FF3;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry width="850" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="BHjIfFnK7PsLAPyRQP0X-2" value="Dashboard" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="90" y="20" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="BHjIfFnK7PsLAPyRQP0X-3" value="Logout" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="690" y="20" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="BHjIfFnK7PsLAPyRQP0X-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#115FF3;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry y="1030" width="850" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="BHjIfFnK7PsLAPyRQP0X-5" value="© Copyright" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="1050" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="BHjIfFnK7PsLAPyRQP0X-6" value="Privacy Policy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="370" y="1050" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="BHjIfFnK7PsLAPyRQP0X-7" value="About Us" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="680" y="1050" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="BHjIfFnK7PsLAPyRQP0X-8" value="Catagory Title" style="fillColor=none;strokeColor=none;align=left;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry width="260" height="40" relative="1" as="geometry">
+                        <mxPoint x="10" y="100" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="BHjIfFnK7PsLAPyRQP0X-9" value="CSS" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" parent="1" vertex="1">
+                    <mxGeometry width="800" height="30" relative="1" as="geometry">
+                        <mxPoint x="10" y="140" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="BHjIfFnK7PsLAPyRQP0X-11" value="$100 Answer" style="fillColor=none;strokeColor=none;align=left;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry width="260" height="40" relative="1" as="geometry">
+                        <mxPoint x="10" y="180" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="BHjIfFnK7PsLAPyRQP0X-12" value="BLANK stands for Cascading Style Sheets" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" parent="1" vertex="1">
+                    <mxGeometry width="800" height="30" relative="1" as="geometry">
+                        <mxPoint x="10" y="220" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="BHjIfFnK7PsLAPyRQP0X-14" value="Add Catagory" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;align=center;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry width="110" height="40" relative="1" as="geometry">
+                        <mxPoint x="680" y="960" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="BHjIfFnK7PsLAPyRQP0X-15" value="$100 Question" style="fillColor=none;strokeColor=none;align=left;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="10" y="260" width="260" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="BHjIfFnK7PsLAPyRQP0X-16" value="What is CSS?" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" parent="1" vertex="1">
+                    <mxGeometry x="10" y="300" width="800" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="BHjIfFnK7PsLAPyRQP0X-20" value="$200 Answer" style="fillColor=none;strokeColor=none;align=left;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="10" y="330" width="260" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="BHjIfFnK7PsLAPyRQP0X-21" value="BLANK stands for Cascading Style Sheets" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" parent="1" vertex="1">
+                    <mxGeometry x="10" y="370" width="800" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="BHjIfFnK7PsLAPyRQP0X-22" value="$200 Question" style="fillColor=none;strokeColor=none;align=left;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="10" y="410" width="260" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="BHjIfFnK7PsLAPyRQP0X-23" value="What is CSS?" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" parent="1" vertex="1">
+                    <mxGeometry x="10" y="450" width="800" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="BHjIfFnK7PsLAPyRQP0X-24" value="$300 Answer" style="fillColor=none;strokeColor=none;align=left;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="10" y="480" width="260" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="BHjIfFnK7PsLAPyRQP0X-25" value="BLANK stands for Cascading Style Sheets" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" parent="1" vertex="1">
+                    <mxGeometry x="10" y="520" width="800" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="BHjIfFnK7PsLAPyRQP0X-26" value="$300 Question" style="fillColor=none;strokeColor=none;align=left;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="10" y="560" width="260" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="BHjIfFnK7PsLAPyRQP0X-27" value="What is CSS?" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" parent="1" vertex="1">
+                    <mxGeometry x="10" y="600" width="800" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="BHjIfFnK7PsLAPyRQP0X-28" value="$400 Answer" style="fillColor=none;strokeColor=none;align=left;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="10" y="630" width="260" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="BHjIfFnK7PsLAPyRQP0X-29" value="BLANK stands for Cascading Style Sheets" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" parent="1" vertex="1">
+                    <mxGeometry x="10" y="670" width="800" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="BHjIfFnK7PsLAPyRQP0X-30" value="$400 Question" style="fillColor=none;strokeColor=none;align=left;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="10" y="710" width="260" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="BHjIfFnK7PsLAPyRQP0X-31" value="What is CSS?" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" parent="1" vertex="1">
+                    <mxGeometry x="10" y="750" width="800" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="BHjIfFnK7PsLAPyRQP0X-32" value="$500 Answer" style="fillColor=none;strokeColor=none;align=left;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="10" y="780" width="260" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="BHjIfFnK7PsLAPyRQP0X-33" value="BLANK stands for Cascading Style Sheets" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" parent="1" vertex="1">
+                    <mxGeometry x="10" y="820" width="800" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="BHjIfFnK7PsLAPyRQP0X-34" value="$500 Question" style="fillColor=none;strokeColor=none;align=left;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="10" y="860" width="260" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="BHjIfFnK7PsLAPyRQP0X-35" value="What is CSS?" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" parent="1" vertex="1">
+                    <mxGeometry x="10" y="900" width="800" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

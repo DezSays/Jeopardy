@@ -1,1 +1,52 @@
-<mxfile host="Electron" modified="2022-12-07T20:25:30.546Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/20.3.0 Chrome/104.0.5112.114 Electron/20.1.3 Safari/537.36" etag="bbFHm4_dSunR6CpAmfJ7" version="20.3.0" type="device"><diagram id="fvQrUP8hThEVy_PcrRIc" name="Page-1">5Vhdb5swFP01PLbCuJDkMSVdp6qTKqXTnl1wwIuxmXE+6K/fNTEBQrqkWppV2Quyz/XnOdfX1zg4zNb3iuTpNxlT7nhuvHbwxPG8YeDB1wDlBvBv/A2QKBZvINQAU/ZKLehadMFiWnQaaim5ZnkXjKQQNNIdjCglV91mM8m7s+YkoT1gGhHeR3+wWKd2W77b4F8pS9J6ZuRaS0bqxhYoUhLLVQvCdw4OlZR6U8rWIeWGu5qXTb8vb1i3C1NU6GM6LCd0lIRCzW89lo+Sn6+P4/GVHWVJ+MJu2C5WlzUDSi5ETM0groNvVynTdJqTyFhXIDlgqc441BAUZ4zzUHKpqr44JnQ4iwAvtJJz2rIE0ZC+zMBiF0CVpus3d4a2fIGfUZlRrUpostqjSNpSY2AxYp0g2XZteIKCpeodtHk92iakSF8kUXGPP9iX7pLUJUNIQXeYsxDhLBFQjYAHCvitYYmBb46tIWNxbKbZq0pXt7+hue5wY+m0R7l27JYKoz0i4I8SAfdEeJSJXOjLVSDwDyoQnFOB4D3RAx2OHiegyA+uPb9DEhr2WfL8wbXfJ2pL6MmZGnxCplz38/E03MNTwKvTC7sJElN6kExAm3uS0doIczX2GsxrIOQsmldbULTKH+CzOdBQSQ2UVGMBeUURQQZjdibiSh6itDFwUjKRQOmBSqA4Lq9bU+fNzCeLPAVIb2bEE7+pPUtwg8mV99ZFLMEhZrxKMlIITFR8RBAa7cQg3HcbtO8eQB/mNKMjnGYaSUXtBX2MzxjvemaaG19w8Bi+d0QJ0KDYAk/ckP+/uoGPD/uB557VD+o3Q8sRpKgPv5yZ09sOHW7xa0GqiLBi1eCazE2tlIs6Smyig6JFDm8LtqTVQyPLQRtxwWkG2r0Z9uQZaHDORAP1E+4/3J+f7p1Sv33dPo/nfbegfs48fqlSZvd7cbkOHXhdh/b/deKMbno6PCm2JJFZ9JOEkFVerhp4cFiN4VnV8PvRJfSc8SiUeamqBVysGOiIo3EiMaDa/O2qbK1fhvjuNw==</diagram></mxfile>
+<mxfile host="65bd71144e">
+    <diagram id="fvQrUP8hThEVy_PcrRIc" name="Page-1">
+        <mxGraphModel dx="590" dy="277" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="vDe9gCnrkB2ip9gjzLAA-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#115FF3;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry width="850" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="vDe9gCnrkB2ip9gjzLAA-2" value="Dashboard" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#F1F8F0;" parent="1" vertex="1">
+                    <mxGeometry x="140" y="20" width="90" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="vDe9gCnrkB2ip9gjzLAA-3" value="Logout" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#F1F8F0;" parent="1" vertex="1">
+                    <mxGeometry x="650" y="20" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="vDe9gCnrkB2ip9gjzLAA-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="460" y="140" width="257.5" height="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="vDe9gCnrkB2ip9gjzLAA-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="400" width="650" height="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="vDe9gCnrkB2ip9gjzLAA-8" value="&lt;h1&gt;Join Game&lt;/h1&gt;&lt;p&gt;Click here to enter the game passcode and start playing Jeopardy.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="500" y="190" width="190" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="vDe9gCnrkB2ip9gjzLAA-9" value="&lt;h1&gt;Scoreboard&lt;/h1&gt;&lt;p&gt;GameTitle : Earnings : Place&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="310" y="460" width="200" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="vDe9gCnrkB2ip9gjzLAA-10" value="onClick of Join Game square will take you to the respective component" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="503.75" y="90" width="170" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="vDe9gCnrkB2ip9gjzLAA-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#115FF3;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry y="640" width="850" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="vDe9gCnrkB2ip9gjzLAA-13" value="About Us" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#F1F8F0;" parent="1" vertex="1">
+                    <mxGeometry x="640" y="660" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="vDe9gCnrkB2ip9gjzLAA-14" value="Privacy Policy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#F1F8F0;" parent="1" vertex="1">
+                    <mxGeometry x="385" y="660" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="vDe9gCnrkB2ip9gjzLAA-15" value="©Copyright" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#F1F8F0;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="660" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="140" width="257.5" height="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="&lt;h1&gt;User Info&lt;/h1&gt;&lt;h1&gt;&lt;p style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;Picture, username, etc.&lt;/p&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="130" y="190" width="190" height="120" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
