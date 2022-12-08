@@ -1,5 +1,4 @@
 import React,{ useState, useEffect }  from "react";
-import ReactDOM from 'react-dom/client';
 import './index.css';
 import LandingPage from './LandingPage.js';
 import 'bootstrap/dist/css/bootstrap.min.css';

@@ -9,7 +9,7 @@ import { Link } from 'react-router-dom'
 
 const UserNavbar = () => {
   return (
-    <Navbar collapseOnSelect expand="lg" bg="warning" variant="light">
+    <Navbar collapseOnSelect expand="lg" bg="primary" variant="light">
     <Container>
       <Navbar.Brand href="/UserDashboard">User Navbar</Navbar.Brand>
       <Navbar.Toggle aria-controls="responsive-navbar-nav" />
