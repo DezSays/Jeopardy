@@ -8,7 +8,7 @@ import { Link } from 'react-router-dom'
 
 const HostNavbar = () => {
     return (
-        <Navbar collapseOnSelect expand="lg" bg="warning" variant="light">
+        <Navbar collapseOnSelect expand="lg" bg="primary" variant="light">
         <Container>
           <Navbar.Brand href="/HostDashboard">Host Navbar</Navbar.Brand>
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
