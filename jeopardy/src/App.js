@@ -14,6 +14,7 @@ import CreateGame from './components/CreateGame.js'
 import PlayGame from './components/PlayGame.js'
 import Login from './components/auth/Login.js'
 import Registration from './components/auth/Registration.js'
+import CreateCategory from "./components/CreateCategory";
 
 
 function App() {
@@ -67,6 +68,7 @@ function App() {
             <HostLayout>
             <Routes>
               <Route path='/HostDashboard' element={<HostDashboard />} />
+              <Route path='/CreateCategory' element={<CreateCategory />} />
               <Route path='/CreateGame' element={<CreateGame />} />
               <Route path='/PlayGame' element={<PlayGame />} />
               <Route path='/Logout' element={<Logout setNavbarState={setNavbarState} />} />
