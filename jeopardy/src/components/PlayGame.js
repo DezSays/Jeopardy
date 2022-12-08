@@ -11,247 +11,268 @@ const PlayGame = () => {
   return (
     <>
     <div className='my-container'>
-      <div className='my-card-col-1'>
-
-        {/* this is col 1 */}
+          {/* CARD COL 1 */}
+          <div className='my-card-col'>
 
         <Card className="my-card-catagory">
-          <Card.Body><Card.Title>Catagory</Card.Title><Card.Text>card's content.</Card.Text>
-          <Button variant="primary">Go somewhere</Button>
+          <Card.Body><Card.Title className='catagory-card-title'>Catagory</Card.Title>
           </Card.Body>
         </Card>
 
         <Card className="my-card-answer">
-          <Card.Body><Card.Title>Card Title</Card.Title><Card.Text>card's content.</Card.Text>
-          <Button variant="primary">Go somewhere</Button>
+          <Card.Body><Card.Title className='anwser-card-title'>500</Card.Title>
           </Card.Body>
         </Card>
 
         <Card className="my-card-answer">
-          <Card.Body><Card.Title>Card Title</Card.Title><Card.Text>card's content.</Card.Text>
-          <Button variant="primary">Go somewhere</Button>
+          <Card.Body><Card.Title className='anwser-card-title'>400</Card.Title>
           </Card.Body>
         </Card>
 
         <Card className="my-card-answer">
-          <Card.Body><Card.Title>Card Title</Card.Title><Card.Text>card's content.</Card.Text>
-          <Button variant="primary">Go somewhere</Button>
+          <Card.Body><Card.Title className='anwser-card-title'>300</Card.Title>
           </Card.Body>
         </Card>
 
         <Card className="my-card-answer">
-          <Card.Body><Card.Title>Card Title</Card.Title><Card.Text>card's content.</Card.Text>
-          <Button variant="primary">Go somewhere</Button>
+          <Card.Body><Card.Title className='anwser-card-title'>200</Card.Title>
           </Card.Body>
         </Card>
 
         <Card className="my-card-answer">
-          <Card.Body><Card.Title>Card Title</Card.Title><Card.Text>card's content.</Card.Text>
-          <Button variant="primary">Go somewhere</Button>
+          <Card.Body><Card.Title className='anwser-card-title'>100</Card.Title>
           </Card.Body>
         </Card>
+
+        <Card  className="my-card-avatar">
+            <Card.Body><Card.Title>Avatar</Card.Title>
+            </Card.Body>
+        </Card>
+
+        <Card  className="my-card-money">
+            <Card.Body><Card.Title>$$$</Card.Title>
+            </Card.Body>
+        </Card>
       </div>
-      <div className='my-card-col-2'>
+          {/* CARD COL 2 */}
+          <div className='my-card-col'>
 
           <Card className="my-card-catagory">
-            <Card.Body><Card.Title>Catagory</Card.Title><Card.Text>card's content.</Card.Text>
-            <Button variant="primary">Go somewhere</Button>
+            <Card.Body><Card.Title className='catagory-card-title'>Catagory</Card.Title>
             </Card.Body>
           </Card>
 
           <Card className="my-card-answer">
-            <Card.Body><Card.Title>Card Title</Card.Title><Card.Text>card's content.</Card.Text>
-            <Button variant="primary">Go somewhere</Button>
+            <Card.Body><Card.Title className='anwser-card-title'>500</Card.Title>
             </Card.Body>
           </Card>
 
           <Card className="my-card-answer">
-            <Card.Body><Card.Title>Card Title</Card.Title><Card.Text>card's content.</Card.Text>
-            <Button variant="primary">Go somewhere</Button>
+            <Card.Body><Card.Title className='anwser-card-title'>400</Card.Title>
             </Card.Body>
           </Card>
 
           <Card className="my-card-answer">
-            <Card.Body><Card.Title>Card Title</Card.Title><Card.Text>card's content.</Card.Text>
-            <Button variant="primary">Go somewhere</Button>
+            <Card.Body><Card.Title className='anwser-card-title'>300</Card.Title>
             </Card.Body>
           </Card>
 
           <Card className="my-card-answer">
-            <Card.Body><Card.Title>Card Title</Card.Title><Card.Text>card's content.</Card.Text>
-            <Button variant="primary">Go somewhere</Button>
+            <Card.Body><Card.Title className='anwser-card-title'>200</Card.Title>
             </Card.Body>
           </Card>
 
           <Card className="my-card-answer">
-            <Card.Body><Card.Title>Card Title</Card.Title><Card.Text>card's content.</Card.Text>
-            <Button variant="primary">Go somewhere</Button>
+            <Card.Body><Card.Title className='anwser-card-title'>100</Card.Title>
             </Card.Body>
           </Card>
+
+          <Card  className="my-card-avatar">
+            <Card.Body><Card.Title >Avatar</Card.Title>
+            </Card.Body>
+          </Card>
+
+          <Card  className="my-card-money">
+            <Card.Body><Card.Title>$$$</Card.Title>
+            </Card.Body>
+          </Card>
+
       </div>
-      <div className='my-card-col-3'>
+             {/* CARD COL 3 */}
+             <div className='my-card-col'>
 
           <Card className="my-card-catagory">
-            <Card.Body><Card.Title>Catagory</Card.Title><Card.Text>card's content.</Card.Text>
-            <Button variant="primary">Go somewhere</Button>
+            <Card.Body><Card.Title className='catagory-card-title'>Catagory</Card.Title>
             </Card.Body>
           </Card>
 
           <Card className="my-card-answer">
-            <Card.Body><Card.Title>Card Title</Card.Title><Card.Text>card's content.</Card.Text>
-            <Button variant="primary">Go somewhere</Button>
+            <Card.Body><Card.Title className='anwser-card-title'>500</Card.Title>
             </Card.Body>
           </Card>
 
           <Card className="my-card-answer">
-            <Card.Body><Card.Title>Card Title</Card.Title><Card.Text>card's content.</Card.Text>
-            <Button variant="primary">Go somewhere</Button>
+            <Card.Body><Card.Title className='anwser-card-title'>400</Card.Title>
             </Card.Body>
           </Card>
 
           <Card className="my-card-answer">
-            <Card.Body><Card.Title>Card Title</Card.Title><Card.Text>card's content.</Card.Text>
-            <Button variant="primary">Go somewhere</Button>
+            <Card.Body><Card.Title className='anwser-card-title'>300</Card.Title>
             </Card.Body>
           </Card>
 
           <Card className="my-card-answer">
-            <Card.Body><Card.Title>Card Title</Card.Title><Card.Text>card's content.</Card.Text>
-            <Button variant="primary">Go somewhere</Button>
+            <Card.Body><Card.Title className='anwser-card-title'>200</Card.Title>
             </Card.Body>
           </Card>
 
           <Card className="my-card-answer">
-            <Card.Body><Card.Title>Card Title</Card.Title><Card.Text>card's content.</Card.Text>
-            <Button variant="primary">Go somewhere</Button>
-            </Card.Body>
-          </Card>
-      </div>
-      <div className='my-card-col-4'>
-
-          <Card className="my-card-catagory">
-            <Card.Body><Card.Title>Catagory</Card.Title><Card.Text>card's content.</Card.Text>
-            <Button variant="primary">Go somewhere</Button>
+            <Card.Body><Card.Title className='anwser-card-title'>100</Card.Title>
             </Card.Body>
           </Card>
 
-          <Card className="my-card-answer">
-            <Card.Body><Card.Title>Card Title</Card.Title><Card.Text>card's content.</Card.Text>
-            <Button variant="primary">Go somewhere</Button>
+          <Card  className="my-card-avatar">
+            <Card.Body><Card.Title>Avatar</Card.Title>
             </Card.Body>
           </Card>
 
-          <Card className="my-card-answer">
-            <Card.Body><Card.Title>Card Title</Card.Title><Card.Text>card's content.</Card.Text>
-            <Button variant="primary">Go somewhere</Button>
-            </Card.Body>
-          </Card>
-
-          <Card className="my-card-answer">
-            <Card.Body><Card.Title>Card Title</Card.Title><Card.Text>card's content.</Card.Text>
-            <Button variant="primary">Go somewhere</Button>
-            </Card.Body>
-          </Card>
-
-          <Card className="my-card-answer">
-            <Card.Body><Card.Title>Card Title</Card.Title><Card.Text>card's content.</Card.Text>
-            <Button variant="primary">Go somewhere</Button>
-            </Card.Body>
-          </Card>
-
-          <Card className="my-card-answer">
-            <Card.Body><Card.Title>Card Title</Card.Title><Card.Text>card's content.</Card.Text>
-            <Button variant="primary">Go somewhere</Button>
+          <Card  className="my-card-money">
+            <Card.Body><Card.Title>$$$</Card.Title>
             </Card.Body>
           </Card>
       </div>
-            <div className='my-card-col-5'>
+       {/* CARD COL 4 */}
+       <div className='my-card-col'>
 
           <Card className="my-card-catagory">
-            <Card.Body><Card.Title>Catagory</Card.Title><Card.Text>card's content.</Card.Text>
-            <Button variant="primary">Go somewhere</Button>
+            <Card.Body><Card.Title className='catagory-card-title'>Catagory</Card.Title>
             </Card.Body>
           </Card>
 
           <Card className="my-card-answer">
-            <Card.Body><Card.Title>Card Title</Card.Title><Card.Text>card's content.</Card.Text>
-            <Button variant="primary">Go somewhere</Button>
+            <Card.Body><Card.Title className='anwser-card-title'>500</Card.Title>
             </Card.Body>
           </Card>
 
           <Card className="my-card-answer">
-            <Card.Body><Card.Title>Card Title</Card.Title><Card.Text>card's content.</Card.Text>
-            <Button variant="primary">Go somewhere</Button>
+            <Card.Body><Card.Title className='anwser-card-title'>400</Card.Title>
             </Card.Body>
           </Card>
 
           <Card className="my-card-answer">
-            <Card.Body><Card.Title>Card Title</Card.Title><Card.Text>card's content.</Card.Text>
-            <Button variant="primary">Go somewhere</Button>
+            <Card.Body><Card.Title className='anwser-card-title'>300</Card.Title>
             </Card.Body>
           </Card>
 
           <Card className="my-card-answer">
-            <Card.Body><Card.Title>Card Title</Card.Title><Card.Text>card's content.</Card.Text>
-            <Button variant="primary">Go somewhere</Button>
+            <Card.Body><Card.Title className='anwser-card-title'>200</Card.Title>
             </Card.Body>
           </Card>
 
           <Card className="my-card-answer">
-            <Card.Body ><Card.Title>Card Title</Card.Title><Card.Text>card's content.</Card.Text>
-            <Button variant="primary">Go somewhere</Button>
+            <Card.Body><Card.Title className='anwser-card-title'>100</Card.Title>
+            </Card.Body>
+          </Card>
+
+          <Card  className="my-card-avatar">
+            <Card.Body><Card.Title >Avatar</Card.Title>
+            </Card.Body>
+          </Card>
+
+          <Card  className="my-card-money">
+            <Card.Body><Card.Title>$$$</Card.Title>
             </Card.Body>
           </Card>
       </div>
-            <div className='my-card-col-6'>
+
+              {/* CARD COL 5 */}
+      <div className='my-card-col'>
 
           <Card className="my-card-catagory">
-            <Card.Body><Card.Title>Catagory</Card.Title><Card.Text>card's content.</Card.Text>
-            <Button variant="primary">Go somewhere</Button>
+            <Card.Body><Card.Title className='catagory-card-title'>Catagory</Card.Title>
             </Card.Body>
           </Card>
 
           <Card className="my-card-answer">
-            <Card.Body><Card.Title>Card Title</Card.Title><Card.Text>card's content.</Card.Text>
-            <Button variant="primary">Go somewhere</Button>
+            <Card.Body><Card.Title className='anwser-card-title'>500</Card.Title>
+            </Card.Body>
+          </Card>
+
+          <Card className="my-card-answer">
+            <Card.Body><Card.Title className='anwser-card-title'>400</Card.Title>
+            </Card.Body>
+          </Card>
+
+          <Card className="my-card-answer">
+            <Card.Body><Card.Title className='anwser-card-title'>300</Card.Title>
+            </Card.Body>
+          </Card>
+
+          <Card className="my-card-answer">
+            <Card.Body><Card.Title className='anwser-card-title'>200</Card.Title>
+            </Card.Body>
+          </Card>
+
+          <Card className="my-card-answer">
+            <Card.Body ><Card.Title className='anwser-card-title'>100</Card.Title>
+            </Card.Body>
+          </Card>
+
+          <Card  className="my-card-avatar">
+            <Card.Body><Card.Title >Avatar</Card.Title>
+            </Card.Body>
+          </Card>
+
+          <Card  className="my-card-money">
+            <Card.Body><Card.Title>$$$</Card.Title>
+            </Card.Body>
+          </Card>
+      </div>
+
+            {/* CARD COL 6 */}
+      <div className='my-card-col'>
+          <Card className="my-card-catagory">
+            <Card.Body><Card.Title className='catagory-card-title'>Catagory</Card.Title>
+            </Card.Body>
+          </Card>
+
+          <Card className="my-card-answer">
+            <Card.Body><Card.Title className='anwser-card-title'>500</Card.Title>
             </Card.Body>
           </Card>
 
           <Card  className="my-card-answer">
-            <Card.Body><Card.Title>Card Title</Card.Title><Card.Text>card's content.</Card.Text>
-            <Button variant="primary">Go somewhere</Button>
+            <Card.Body><Card.Title className='anwser-card-title'>400</Card.Title>
             </Card.Body>
           </Card>
 
           <Card className="my-card-answer">
-            <Card.Body><Card.Title>Card Title</Card.Title><Card.Text>card's content.</Card.Text>
-            <Button variant="primary">Go somewhere</Button>
+            <Card.Body><Card.Title className='anwser-card-title'>300</Card.Title>
             </Card.Body>
           </Card>
 
           <Card  className="my-card-answer">
-            <Card.Body><Card.Title>Card Title</Card.Title><Card.Text>card's content.</Card.Text>
-            <Button variant="primary">Go somewhere</Button>
+            <Card.Body><Card.Title className='anwser-card-title'>200</Card.Title>
             </Card.Body>
           </Card>
 
           <Card  className="my-card-answer">
-            <Card.Body><Card.Title>Card Title</Card.Title><Card.Text>card's content.</Card.Text>
-            <Button variant="primary">Go somewhere</Button>
+            <Card.Body><Card.Title className='anwser-card-title'>100</Card.Title>
             </Card.Body>
           </Card>
+
+          <Card  className="my-card-avatar">
+            <Card.Body><Card.Title >Avatar</Card.Title>
+            </Card.Body>
+          </Card>
+
+          <Card  className="my-card-money">
+            <Card.Body><Card.Title>$$$</Card.Title>
+            </Card.Body>
+          </Card>
+          
       </div>
-
     </div>
-
-
-
-
-
-
-
-
-
   </>
   )
 }
