@@ -7,7 +7,7 @@ const HostDashboard = () => {
   return (
     <>
         <div>HostDashboard</div>
-        <Link to="/PlayGame" element={<PlayGame />} className='path'>Play Game Page</Link>
+        <Link to="/PlayGame" element={<PlayGame />} style={{color: "red"}} className='path'>Play Game Page</Link>
     </>
   )
 }
