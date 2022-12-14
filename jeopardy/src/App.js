@@ -14,6 +14,9 @@ import PlayGame from './components/PlayGame.js'
 import Login from './components/auth/Login.js'
 import Registration from './components/auth/Registration.js'
 import CreateCategory from "./components/CreateCategory";
+import FooterLayout from "./components/layout/FooterLayout";
+import AboutUs from "./components/AboutUs";
+
 
 
 function App() {
@@ -38,13 +41,18 @@ function App() {
         console.log("this is navbarstate "+navbarState)
         return (
         <Router>
-            <GenericLayout>
+          <GenericLayout>
             <Routes>
               <Route path='/' element={<LandingPage />} />
               <Route path='/Login' element={<Login setNavbarState={setNavbarState}  />} />
               <Route path='/Registration' element={<Registration />} />
             </Routes>
           </GenericLayout>
+          <FooterLayout>
+            <Routes>
+              <Route path ='/AboutUs' element={<AboutUs />} />
+            </Routes>
+          </FooterLayout>
         </Router>
       );
     }
@@ -58,6 +66,11 @@ function App() {
               <Route path='/Logout' element={<Logout setNavbarState={setNavbarState} />} />
             </Routes>
           </UserLayout>
+          <FooterLayout>
+            <Routes>
+              <Route path ='/AboutUs' element={<AboutUs />} />
+            </Routes>
+          </FooterLayout>
           </Router>
         );
     }
@@ -73,6 +86,11 @@ function App() {
               <Route path='/Logout' element={<Logout setNavbarState={setNavbarState} />} />
             </Routes>
           </HostLayout>
+          <FooterLayout>
+            <Routes>
+              <Route path ='/AboutUs' element={<AboutUs />} />
+            </Routes>
+          </FooterLayout>
            </Router>
         );
     }
